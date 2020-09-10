@@ -5,6 +5,7 @@ import org.app.india.dto.LaptopDto;
 
 public class TestCases {
 		public static void main(String[] args) {
+			//All Tested Pass
 			//++++++++++++++[Session Tests]++++++++++++++++
 //			LaptopDto dto= new LaptopDto();
 //			saveBySession(dto); 				//C
