@@ -5,6 +5,7 @@ import org.app.india.dto.LaptopDto;
 
 public class TestCases {
 		public static void main(String[] args) {
+			//Need to be uncommented according to your need of operations
 			//All Tested Pass
 			//++++++++++++++[Session Tests]++++++++++++++++
 //			LaptopDto dto= new LaptopDto();
